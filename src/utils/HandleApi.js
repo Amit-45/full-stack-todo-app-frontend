@@ -1,1 +1,1 @@
-export const baseURL = "https://full-stack-todo-app-backend-schc.onrender.com";
+export const baseURL = "https://full-stack-todo-app-backend.vercel.app/";
